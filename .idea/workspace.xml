@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9d8f58ed-3412-4df4-9e4c-45c8c80d6868" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="eventoJUPNA.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,8 +28,8 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.37351444" vertical-offset="8762" max-vertical-offset="13266">
-              <caret line="499" column="56" selection-start-line="499" selection-start-column="56" selection-end-line="499" selection-end-column="56" />
+            <state vertical-scroll-proportion="0.37351444" vertical-offset="9050" max-vertical-offset="13230">
+              <caret line="515" column="135" selection-start-line="515" selection-start-column="135" selection-end-line="515" selection-end-column="135" />
               <folding />
             </state>
           </provider>
@@ -401,12 +400,12 @@
       <workItem from="1405372459778" duration="618000" />
       <workItem from="1405386333014" duration="2736000" />
       <workItem from="1405565185316" duration="1959000" />
-      <workItem from="1405647599426" duration="69000" />
+      <workItem from="1405647599426" duration="234000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5652000" />
+    <option name="totallyTimeSpent" value="5817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1362" height="769" extended-state="6" />
@@ -573,8 +572,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.37351444" vertical-offset="8762" max-vertical-offset="13266">
-          <caret line="499" column="56" selection-start-line="499" selection-start-column="56" selection-end-line="499" selection-end-column="56" />
+        <state vertical-scroll-proportion="0.37351444" vertical-offset="9050" max-vertical-offset="13230">
+          <caret line="515" column="135" selection-start-line="515" selection-start-column="135" selection-end-line="515" selection-end-column="135" />
           <folding />
         </state>
       </provider>
