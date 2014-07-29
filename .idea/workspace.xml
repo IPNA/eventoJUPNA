@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9d8f58ed-3412-4df4-9e4c-45c8c80d6868" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-    </list>
+    <list default="true" id="9d8f58ed-3412-4df4-9e4c-45c8c80d6868" name="Default" comment="" />
     <ignored path="eventoJUPNA.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,7 +26,7 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.6943973" vertical-offset="11399" max-vertical-offset="13230">
+            <state vertical-scroll-proportion="20.047539" vertical-offset="0" max-vertical-offset="13230">
               <caret line="656" column="39" selection-start-line="656" selection-start-column="39" selection-end-line="656" selection-end-column="39" />
               <folding />
             </state>
@@ -400,16 +398,16 @@
       <workItem from="1405372459778" duration="618000" />
       <workItem from="1405386333014" duration="2736000" />
       <workItem from="1405565185316" duration="1959000" />
-      <workItem from="1405647599426" duration="546000" />
+      <workItem from="1405647599426" duration="1742000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6129000" />
+    <option name="totallyTimeSpent" value="7325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="0" width="1362" height="769" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -572,7 +570,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6943973" vertical-offset="11399" max-vertical-offset="13230">
+        <state vertical-scroll-proportion="20.047539" vertical-offset="0" max-vertical-offset="13230">
           <caret line="656" column="39" selection-start-line="656" selection-start-column="39" selection-end-line="656" selection-end-column="39" />
           <folding />
         </state>
